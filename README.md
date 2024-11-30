@@ -14,6 +14,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/66f411f6-c5ad-487f-ba04-dea3dad8f836)
+
 <h3> Overview 🚀 </h3>
 <p>
 <i>This project is a modern web application built using Next.js, TypeScript, and CSS It serves as a platform for me to enhance my front-end development skills, particularly in Next.js, TypeScript, and CSS, as well as in designing responsive, aesthetically pleasing UI components.</i>
